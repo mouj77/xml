@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <Root>
+<RLUEx>
+    <RLUEx_Id> 1 </RLUEx_Id>
+    <RL0501A>62B</RL0501A>
+    <RL0504Dx>1322456</RL0504Dx>
+    <RL0504Ex>T</RL0504Ex>
+    <RL0504Fx>7</RL0504Fx>
+</RLUEx>
+<RLUEx>
+    <RLUEx_Id> 2 </RLUEx_Id>
+    <RL0501A>78G</RL0501A>
+	<RL0504Ax>F-2.1</RL0504Ax>
+    <RL0504Bx>204</RL0504Bx>
+    <RL0504Cx>12</RL0504Cx>
+    <RL0504Dx>49200</RL0504Dx>
+     <RL0504Ex>T</RL0504Ex>
+     <RL0504Fx>2</RL0504Fx>
+</RLUEx>
+<RLUEx>
+    <RLUEx_Id> 2 </RLUEx_Id>
+    <RL0501A>78G</RL0501A>
+    <RL0504Ax>F-2.1</RL0504Ax>
+    <RL0504Bx>204</RL0504Bx>
+    <RL0504Cx>12</RL0504Cx>
+    <RL0504Dx>1601700</RL0504Dx>
+    <RL0504Ex>B</RL0504Ex>
+    <RL0504Fx>2</RL0504Fx>
+</RLUEx>
+<RLUEx>
+    <RLUEx_Id> 2 </RLUEx_Id>
+    <RL0501A>78G</RL0501A>
+    <RL0504Dx>1650900</RL0504Dx>
+    <RL0504Ex>I</RL0504Ex>
+    <RL0504Fx>2</RL0504Fx>
+</RLUEx>
+
+</Root>

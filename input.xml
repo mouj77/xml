@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<RL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="RL.xsd">
+
+  <RLUEx>
+    <RL0501A>62B</RL0501A>
+    <RL0504>
+	    <RL0504x>
+        <RL0504Dx>1322456</RL0504Dx>
+        <RL0504Ex>T</RL0504Ex>
+        <RL0504Fx>7</RL0504Fx>
+      </RL0504x>
+    </RL0504>
+  </RLUEx>
+  <RLUEx>
+    <RL0501A>78G</RL0501A>
+    <RL0504>
+      <RL0504x>
+        <RL0504Ax>F-2.1</RL0504Ax>
+        <RL0504Bx>204</RL0504Bx>
+        <RL0504Cx>12</RL0504Cx>
+        <RL0504Dx>49200</RL0504Dx>
+        <RL0504Ex>T</RL0504Ex>
+        <RL0504Fx>2</RL0504Fx>
+      </RL0504x>
+      <RL0504x>
+        <RL0504Ax>F-2.1</RL0504Ax>
+        <RL0504Bx>204</RL0504Bx>
+        <RL0504Cx>12</RL0504Cx>
+        <RL0504Dx>1601700</RL0504Dx>
+        <RL0504Ex>B</RL0504Ex>
+        <RL0504Fx>2</RL0504Fx>
+      </RL0504x>
+      <RL0504x>
+        <RL0504Dx>1650900</RL0504Dx>
+        <RL0504Ex>I</RL0504Ex>
+        <RL0504Fx>2</RL0504Fx>
+      </RL0504x>
+    </RL0504>
+  </RLUEx>
+</RL>
